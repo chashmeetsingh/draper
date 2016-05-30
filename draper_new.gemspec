@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "draper/version"
 
 Gem::Specification.new do |s|
-  s.name        = "draper"
+  s.name        = "draper_new"
   s.version     = Draper::VERSION
   s.authors     = ["Chashmeet Singh"]
   s.email       = ["chashmeetsingh@gmail.com"]
