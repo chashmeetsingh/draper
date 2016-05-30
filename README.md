@@ -579,9 +579,6 @@ Draper was conceived by Jeff Casimir and heavily refined by Steve Klabnik and a
 great community of open source
 [contributors](https://github.com/drapergem/draper/contributors).
 
-### Core Team
+### Maintainer
 
-* Jeff Casimir (jeff@jumpstartlab.com)
-* Steve Klabnik (steve@jumpstartlab.com)
-* Vasiliy Ermolovich
-* Andrew Haines
+* Chashmeet Singh
